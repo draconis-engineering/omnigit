@@ -1,7 +1,7 @@
 {
-	"name": "git-polyrepo-dashboard",
+	"name": "omnigit",
 	"version": "0.0.0",
-	"license": "MIT",
+	"license": "GPL-3.0-only",
 	"bin": "dist/cli.js",
 	"type": "module",
 	"engines": {
